@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RollBallUnityChan",
+"productVersion": "1.0",
+"dataUrl": "UnitychanBollRun.data.unityweb",
+"asmCodeUrl": "UnitychanBollRun.asm.code.unityweb",
+"asmMemoryUrl": "UnitychanBollRun.asm.memory.unityweb",
+"asmFrameworkUrl": "UnitychanBollRun.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}

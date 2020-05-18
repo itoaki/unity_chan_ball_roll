@@ -2,8 +2,8 @@
 Udemyの「ユニティちゃんが教える！初心者向けUnity講座」で作った玉転がしゲーム  
 https://www.udemy.com/course/unity-chan-tutorial-01/  
 
-ゲームはこちらから↓
-https://itoaki.github.io/UnityChanBallRoll/
+ゲームはこちらから↓  
+https://itoaki.github.io/unitychan_ballroll/
 
 --------------------------------------------------------------------------
 ## はじめに
